@@ -10,7 +10,7 @@ A modern, responsive To-Do List app with:
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to view the app](https://sharthgouli.github.io/todo-list/)  
+🔗 [Click here to view the app]( https://sharthgouli.github.io/todo-list/)  
 
 ---
 
